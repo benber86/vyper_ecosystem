@@ -37,7 +37,7 @@ Resources Vyper Ecosystem
 
 | Name | Logo | Repo |
 |------|------|-----|
-
+| VSCode |  | | 
 
 ## Web Based Development Tools
 
@@ -55,6 +55,12 @@ Resources Vyper Ecosystem
 |------|------|-----|
 | Verifereum |   |  https://verifereum.org/ |
 
+
+## Block Explorers
+
+| Name | Logo | Repo |
+|------|------|-----|
+| Etherscan |   |  https://verifereum.org/ |
 
 ## Tutorials
 
