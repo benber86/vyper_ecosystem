@@ -1,7 +1,6 @@
 # vyper_ecosystem
+
 Resources Vyper Ecosystem
-
-
 
 
 ## Frameworks
@@ -31,36 +30,32 @@ Resources Vyper Ecosystem
 | Vyzzer | ![image](https://github.com/user-attachments/assets/8330d45e-46b1-4137-9035-1f30a63e1f78) | https://github.com/statemindio/vyzzer |
 | Vyper-Fuzz | ![image](https://github.com/user-attachments/assets/dac0b0f8-bd7e-4888-a51e-2fd871414691) | https://github.com/otter-sec/vyper-fuzz/tree/main |
 | Echydna | ![image](https://github.com/user-attachments/assets/dcad7cca-a9ea-4993-9552-22783193abda) | https://github.com/crytic/echidna |
+| Verifereum |   |  https://verifereum.org/ |
 
-
-## IDE Integration
+## IDE Integrations
 
 | Name | Logo | Repo |
 |------|------|-----|
-| VSCode |  | | 
+| VSCode | ![image](https://github.com/user-attachments/assets/6f92ea07-283e-4421-b2e4-5c9841f8f29a) | https://github.com/tintinweb/vscode-vyper | 
+| VSCode | ![image](https://github.com/user-attachments/assets/6f92ea07-283e-4421-b2e4-5c9841f8f29a) | https://github.com/tintinweb/vscode-vyper | 
+
 
 ## Web Based Development Tools
-
 
 | Name | Logo | Repo |
 |------|------|-----|
 | Vyper JupyterHub | ![image](https://github.com/user-attachments/assets/d66ece29-1e9e-4ed1-b7df-4f1ddacffc4e) | https://try.vyperlang.org/ |
 | Remix | ![image](https://github.com/user-attachments/assets/3a61607d-c72c-46f4-a50c-34eff8bdf6a7) | https://remix.ethereum.org/ |
-| Tenderly | ![image](https://github.com/user-attachments/assets/ee347071-b51f-4d7f-a9a9-a785715216f7)  | https://tenderly.co/ |
-
-## Formal Verification
-
-
-| Name | Logo | Repo |
-|------|------|-----|
-| Verifereum |   |  https://verifereum.org/ |
+| Tenderly | ![imag
 
 
 ## Block Explorers
 
 | Name | Logo | Repo |
 |------|------|-----|
-| Etherscan |   |  https://verifereum.org/ |
+| Etherscan |  ![image](https://github.com/user-attachments/assets/a97edbed-c505-4106-9125-9fad03850db5) |  https://etherscan.io/ |
+| Blockscout | ![image](https://github.com/user-attachments/assets/b4fab3a7-5491-4a74-b821-bcf1baf546ef) | https://www.blockscout.com/ |
+
 
 ## Tutorials
 
